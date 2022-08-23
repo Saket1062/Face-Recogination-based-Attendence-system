@@ -5,8 +5,11 @@ This system consist of 4 phase:
 2. Face Detection 
 3. Face Recogination
 4. Attendence Updation
-![WhatsApp Image 2022-08-23 at 9 17 08 AM (1)](https://user-images.githubusercontent.com/75435144/186091137-bec6bb13-8afa-438a-8dd2-f9db2bd708c2.jpeg)
+
 ![WhatsApp Image 2022-08-23 at 9 17 08 AM](https://user-images.githubusercontent.com/75435144/186091143-a1879e3c-d95b-4378-94bc-df6b9fee03cb.jpeg)
+
+![WhatsApp Image 2022-08-23 at 9 17 08 AM (1)](https://user-images.githubusercontent.com/75435144/186091137-bec6bb13-8afa-438a-8dd2-f9db2bd708c2.jpeg)
+
 
 
 
